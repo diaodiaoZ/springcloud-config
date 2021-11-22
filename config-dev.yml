@@ -1,0 +1,3 @@
+#这是dev的配置
+server:
+  port: 8009
