@@ -1,5 +1,3 @@
 #这是dev的配置
 config:
-  info: 这是GitHub上面的configInfo  加油邓德煌 追马不如种草 你会感谢你自己的
-server:
-  port: 8009
+  info: GitHub configInfo  you will be better
